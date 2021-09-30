@@ -12,9 +12,6 @@ Creating a web application using create-react-app. The application should have f
 
 ![REACT](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Screenshots
-
-<img width="946" alt="task1" src="https://user-images.githubusercontent.com/52875298/127188522-378937f8-c700-4c95-904c-51e097899dda.png">
 
 ## Live Demo
 
